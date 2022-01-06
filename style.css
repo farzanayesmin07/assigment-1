@@ -1,0 +1,126 @@
+body {
+    font-size: 20px;
+    color: rgb(29, 26, 26);
+}
+
+h1 {
+    font-family: 'Yeseva One', cursive;
+    font-size: 60px;
+
+}
+
+.gray-color {
+    color: #ee156e;
+}
+
+section {
+    display: flex;
+    margin-top: 70px;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.top-header {
+
+    padding-left: 10px;
+    border-left: 5px solid;
+    border-color: tomato;
+    border-image-slice: 1;
+}
+
+#top-left {
+    margin-left: 80px;
+}
+
+#top-left p {
+    padding-right: 80px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: #ff5959;
+    padding: 7px;
+    color: azure;
+    border-radius: 5px;
+}
+
+#top-bannar-img {
+    width: 40%;
+    margin-right: 10%;
+    border-radius: 50%;
+}
+
+.my-misson {
+    margin: 20px auto;
+    font-size: 45px;
+}
+
+.misson-div-part {
+    width: 20%;
+    padding: 20px;
+    margin: 5px 20px;
+    border-radius: 17px;
+}
+
+.misson-div-part img {
+    width: 30%;
+
+}
+
+
+#misson {
+    margin-left: 12%;
+    background-color: #d1f9d6;
+
+
+}
+
+#visson {
+    background-color: #eeccfc;
+}
+
+#goal {
+    background-color: #c9fcee;
+    margin-right: 5%;
+}
+
+.middle-part {
+    padding: 50px 10%;
+}
+
+.one-therd-width {
+    width: 35%;
+    padding: 0px 5%;
+}
+
+.two-therd-width {
+    width: 55%;
+    padding: 0px 5%;
+}
+
+footer {
+    text-align: center;
+    background-color: #00112d;
+    padding: 10px 0px;
+
+}
+
+footer h2 {
+    color: beige;
+}
+
+footer h2 span {
+    color: rgb(210, 30, 165);
+}
+
+footer p {
+    color: azure;
+}
+
+.about-part {
+    width: 10%;
+    padding: 2%;
+
+}
